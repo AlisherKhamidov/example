@@ -29,6 +29,7 @@ function App() {
       <p>Example</p>
       <p>Khamidov</p>
       <p>Alisher</p>
+      <p>Conflict 1</p>
     </>
   )
 }
