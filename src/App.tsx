@@ -27,6 +27,7 @@ function App() {
         <button>Hi</button>
       </div>
       <p>Example</p>
+      <p>Khamidov</p>
     </>
   )
 }
