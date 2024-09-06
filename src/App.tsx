@@ -28,6 +28,7 @@ function App() {
       </div>
       <p>Example</p>
       <p>Khamidov</p>
+      <p>Conflict 2</p>
     </>
   )
 }
